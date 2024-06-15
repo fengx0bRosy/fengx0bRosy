@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @fengx0bRosy
+- 👋 Hi, I’m @fengx0bRosy 
 - 👀 I’m interested in CFD modeling /phase equilibrium caluclation / parallel computing / machine learning for physics
 - 🌱 I’m currently learning Julia coding 
 - 💞️ I’m looking to collaborate on science and research
 - 📫 How to reach me via: xiaoyufeng.rosy@outlook.com
-
+- Names: Xiaoyu Feng/Hsiaoyu Fung/Asatsuki U Hyo/Hyowoo Poong/Shareef Von/shyaow yoo  
 I want to use this github as my codes/notes/files/webs/ databank
 
 <!---
