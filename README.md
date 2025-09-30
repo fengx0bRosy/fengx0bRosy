@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Julia coding 
 - 💞️ I’m looking to collaborate on science and research
 - 📫 How to reach me via: xiaoyufeng.rosy@outlook.com
-- Names: Xiaoyu Feng/Hsiaoyu Fung/Asatsuki U Hyo/Hyowoo Poong/Shareef Von/shyaow yoo  
+- Names: Xiaoyu Feng/Hsiaoyu Fung/Satohiro/Hyowoo/-Von/ 
 I want to use this github as my codes/notes/files/webs/ databank
 
 <!---
