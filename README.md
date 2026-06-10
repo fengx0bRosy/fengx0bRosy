@@ -2,7 +2,7 @@
 - 👀 I’m interested in CFD modeling /phase equilibrium caluclation / parallel computing / machine learning for physics
 - 🌱 I’m currently learning Julia coding 
 - 💞️ I’m looking to collaborate on science and research
-- 📫 Reach me via: xiaoyufeng.rosy@outlook.com or imxiaoyufeng@gmail.com
+- 📫 Reach me via: xiaoyufeng.rosy@outlook.com
 I want to use this github as my codes/notes/files/webs/databank
 
 <!---
